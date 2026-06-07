@@ -1,2 +1,3 @@
 dong thu 1
 day la thay doi dc thuc hien tren github
+sua, them, xoa, viet code...
